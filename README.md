@@ -20,7 +20,7 @@
   - FileZilla
 
 # 개요
-이미지
+![](./image/kakaoflow.jpg)
 
 # 파일 별 핵심기능 및 역할
 - myproject
