@@ -1,4 +1,4 @@
-# kakao-chatbot-project
+# HKNU_FOOD
 
 ### 2019년03월 27일 이후 더 이상 서비스 되지 않습니다.
 
